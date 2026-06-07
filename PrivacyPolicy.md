@@ -1,7 +1,7 @@
   # Privacy Policy
 
-  This privacy policy applies to the Nandemo Map 2 app, also known as なんでもマップ２, hereby referred to
-  as the "Application", for mobile devices. The Application was created by Nandemo Map 2 Engineering Team, hereby referred
+  This privacy policy applies to the Almighty Map, hereby referred to
+  as the "Application", for mobile devices. The Application was created by Almighty Map Engineering Team, hereby referred
   to as the "Service Provider", as a Commercial service. This service is provided "AS IS".
 
   ## Information Collection and Use
